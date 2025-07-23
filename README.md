@@ -1,0 +1,2 @@
+# Edge
+smartvote-checker
